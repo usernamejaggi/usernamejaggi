@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC40&width=720&lines=%F0%9F%91%8B+%0A+Hey%2C+there%21%21+I'm+Rahul+and+Welcome+to+my+Profile%21)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC40&width=720&lines=%F0%9F%91%8B+%0A+Hey%2C+there%21%21+I'm+Jaggi+and+Welcome+to+my+Profile%21)](https://git.io/typing-svg)
 
 ![MasterHead](https://drive.google.com/uc?export=view&id=1rHg9ZzHpvty_muZF8Z_IaXjSNAYv4Q60)
 
