@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **I am an excellent cook**
 
-- 📫 How to reach me **rs4655742@gmail.com** 
+- 📫 How to reach me **nikhiljaggiofficial@gmail.com** 
 
 - 🤗 Explore real-time weather updates with my Weather App: featuring a sleek design and user-friendly interface [**Weather App**](https://rahulsamanta82.github.io/Weather_app/)
 
