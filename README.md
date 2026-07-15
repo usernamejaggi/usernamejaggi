@@ -6,7 +6,7 @@
 <!-- <div align="center">
   <img src="https://i.postimg.cc/1tBXFwQH/header.gif">
 </div> -->
-<h3 align="center">Expert in Attractive Design & Full steck Development.</h3>
+<h3 align="center">AI / ML Engineer | Software Developer </h3>
 <table>
   <td>
     <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:50px;" />
@@ -20,21 +20,20 @@
 
 - 💬 Ask me about **UI/UX Design, Full stack development**
 
-- ⚡ Fun fact **I am an excellent cook**
+- ⚡ Fun fact **MAD MAXXX**
 
 - 📫 How to reach me **nikhiljaggiofficial@gmail.com** 
 
 - 🤗 Explore real-time weather updates with my Weather App: featuring a sleek design and user-friendly interface [**Weather App**](https://rahulsamanta82.github.io/Weather_app/)
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="1000" alt="animated hello">
   </td>
   <td>
   </td>
 </table>
 
 <div align="center">
-  <img src="https://i.postimg.cc/s2FrgXtg/footer.gif">
+
 </div>
-<!-- ![MasterHead](https://drive.google.com/uc?export=view&id=1rHg9ZzHpvty_muZF8Z_IaXjSNAYv4Q60) -->
 
 
 ## 🌏 **CONNECT WITH ME**
