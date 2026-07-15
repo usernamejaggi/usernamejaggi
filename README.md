@@ -11,10 +11,10 @@
   <td>
     <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:50px;" />
    
-- 🔭 I’m currently working on **Full Stack development**
-- 🌱 I’m currently learning **React** 
+- 🔭 I’m currently working on AI/ML
+- 🌱  DSA 
 
-- 👨‍💻 [**View my portfolio**](https://mr-rahul.vercel.app/) to see all of my projects.
+- 👨‍💻 [**View my portfolio**](https://jaggiportfolio.netlify.app/) to see all of my projects.
 
 - 📝 Explore detailed **blogs** on my **Design** and **JavaScript** projects [**here.**](https://rahul-funville.vercel.app/)
 
