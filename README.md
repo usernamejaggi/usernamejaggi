@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC40&width=720&lines=%F0%9F%91%8B+%0A+Hey%2C+there%21%21+I'm+Jaggi+and+Welcome+to+my+Profile%21)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02AFF&width=720&lines=%F0%9F%9A%80+Building+impactful+software%0A%F0%9F%92%BB+Java+%7C+DSA+%7C+AI%2FML%0A%F0%9F%8C%B1+Always+learning+something+new)](https://git.io/typing-svg)
 
-![MasterHead](https://drive.google.com/uc?export=view&id=1rHg9ZzHpvty_muZF8Z_IaXjSNAYv4Q60)
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
 
 
 <!-- <div align="center">
@@ -25,11 +25,9 @@
 - 📫 How to reach me **nikhiljaggiofficial@gmail.com** 
 
 - 🤗 Explore real-time weather updates with my Weather App: featuring a sleek design and user-friendly interface [**Weather App**](https://rahulsamanta82.github.io/Weather_app/)
-
-    <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:40px" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
   </td>
   <td>
-    <img src="https://i.postimg.cc/SKTNNq7T/goku.png"/>
   </td>
 </table>
 
