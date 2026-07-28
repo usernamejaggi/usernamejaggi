@@ -10,11 +10,12 @@
 <table>
   <td>
     <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:50px;" />
-   
-- 🔭 Working on AI/ML
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2FF7,100:FF00FF&height=120&section=header&text=AI%20%7C%20Machine%20Learning&fontColor=ffffff&fontSize=30&animation=fadeIn"/>
+  <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1200&color=C792EA&center=true&vCenter=true&width=750&lines=Training+Neural+Networks...;Building+AI-Powered+Applications...;Machine+Learning+Explorer...;Data+Driven+Problem+Solver..." />
 </p>
+    
+-  🔭 Working on AI/ML
+    
 - 🌱  DSA 
 
 - 👨‍💻 [**View my portfolio**](https://jaggiportfolio.netlify.app/) to see all of my projects.
@@ -22,8 +23,11 @@
 - ⚡ MAD MAXXX
 
 - 📫  nikhiljaggiofficial@gmail.com
+<td width="42%" align="right">
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="1000" alt="animated hello">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="420"/>
+
+</td>
   </td>
   <td>
   </td>
