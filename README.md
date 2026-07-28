@@ -9,7 +9,7 @@
 <h3 align="center">AI / ML Engineer | Software Developer </h3>
 <table>
   <td>
-    <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:50px;" />
+    <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 6px; height:50px;" />
   <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1200&color=C792EA&center=true&vCenter=true&width=750&lines=Training+Neural+Networks...;Building+AI-Powered+Applications...;Machine+Learning+Explorer...;Data+Driven+Problem+Solver..." />
 </p>
@@ -102,28 +102,10 @@
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </a>
 <a href="#"> 
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</a>
-<a href="#"> 
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-</a>
-<a href="#"> 
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </a>
 <a href="#"> 
-    <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
-</a>
-<a href="#"> 
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-</a>
-<a href="#"> 
-    <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
-</a>
-<a href="#"> 
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-</a>
-<a href="#"> 
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </a>
 
 
@@ -296,7 +278,8 @@
     src="https://leetcard.jacoblin.cool/JxGGi?theme=dark&ext=heatmap&width=700&font=noto_sans_display"
     alt="LeetCode Stats"
     width="750"
-  /></p>
+  />
+</p>
 
 
 
