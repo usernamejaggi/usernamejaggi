@@ -9,7 +9,7 @@
 <h3 align="center">AI / ML Engineer | Software Developer </h3>
 <table>
   <td>
-    <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 6px; height:50px;" />
+    <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:50px;" />
   <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1200&color=C792EA&center=true&vCenter=true&width=750&lines=Training+Neural+Networks...;Building+AI-Powered+Applications...;Machine+Learning+Explorer...;Data+Driven+Problem+Solver..." />
 </p>
