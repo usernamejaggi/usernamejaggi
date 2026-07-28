@@ -287,121 +287,18 @@
     <img src="https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white"/>
 </a>
 
-## 🍔 Food [🔝](#menu)
-<a href="#"> 
-    <img src="https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white"/>
-</a>
-<a href="#"> 
-    <img src="https://img.shields.io/badge/Swiggy-FC8019?style=for-the-badge&logo=Swiggy&logoColor=white"/>
-</a>
-<a href="#"> 
-    <img src="https://img.shields.io/badge/Zomato-E23744?style=for-the-badge&logo=zomato&logoColor=white"/>
-</a>
-<a href="#"> 
-    <img src="https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white"/>
-</a>
-<a href="#"> 
-    <img src="https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white"/>
-</a>
-<a href="#"> 
-    <img src="https://img.shields.io/badge/foodpanda-E23744?style=for-the-badge&logo=zomato&logoColor=white"/>
-</a>
-<a href="#"> 
-    <img src="https://img.shields.io/badge/Deliveroo-00CCBC?style=for-the-badge&logo=Deliveroo&logoColor=white"/>
-</a>
 
 
-<!--
-## Skills
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/arghadipmanna101/arghadipmanna101/assets/130065095/20307e98-2925-48d5-a7dd-7ee6a589c563" alt="canva" width="40" height="40"/> </a>
-</div>
-<br/>
-<hr/> -->
-
-<h2><picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
-</picture> Holopin Badges (Hacktober Fest 2025)</h2>
-
-[![An image of @rahulsamanta82's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahulsamanta82)](https://holopin.me/rahulsamanta82)
+<h2 align="center">Leetcode Info<h2>    
+ <img
+    src="https://leetcard.jacoblin.cool/JxGGi?theme=dark&ext=heatmap&width=700&font=noto_sans_display"
+    alt="LeetCode Stats"
+    width="750"
+  /></p>
 
 
-<!--## 🌐 Coding Profile
-<p align="center">
-  <a href="https://leetcode.com/u/Rahul_Samanta82/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
-<br/>
-<p align="center">
-  <a href="https://leetcode.com/u/Rahul_Samanta82/">
-  <img alt="LeetCode Stat Card" src="https://leetcard.jacoblin.cool/Rahul_Samanta82?theme=light&ext=heatmap&width=490&font=noto_sans_display"/>
-  </a>
-</p>-->
-<h2 align="center">Leetcode Info<h2>  
-<p align="center">
-  <a href="https://leetcode.com/Rahul_Samanta82/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/Rahul_Samanta82/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/Rahul_Samanta82/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/Rahul_Samanta82/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
-</p>
-<p align="center">
-  
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Rahul_Samanta82?theme=light&ext=heatmap&width=490&font=noto_sans_display" />  
-</p>
 
 
-## 📈 GitHub Analytics
-<div align="center">
-  <!-- <a href="#">
-    <img width="320em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulsamanta82&layout=compact&theme=buefy&hide_border=false" alt="Nivedita's top lang"/>
-  </a> -->
-  <a href="#">
-    <img width="520em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulsamanta82&theme=buefy" alt="Nivedita's github summary"/>
-  </a>
-</div>
-  <br>
-
-
-<!-- stats -->
-<h2 align="center">⚡ Stats ⚡</h2>
-<br />
-<p align=center>
-<!-- first row -->
-  <div align=center>
-  <!-- streak stats -->
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=rahulsamanta82&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=rahulsamanta82&theme=default&border=61dafb" />
-        <img align="left" width=390 src="https://github-readme-streak-stats-eight.vercel.app/?user=rahulsamanta82&theme=default&border=61dafb" alt="rahulsamanta82's streak stats" />
-      </picture>
-    </a>
-  <!-- github stats -->
-    <!-- <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rahulsamanta82&show_icons=true&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=rahulsamanta82&show_icons=true&theme=default&border_color=61dafb" />
-        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=rahulsamanta82&show_icons=true&theme=default&border_color=61dafb" alt="rahulsamanta82's github stats" />
-      </picture>
-    </a> -->
-  </div>
-  <!-- spaces -->
-<br /><br /><br /><br /><br /><br /><br /><br /><br />
-  <!-- contribution graph -->
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rahulsamanta82&theme=react-dark" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rahulsamanta82&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rahulsamanta82&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="rahulsamanta82's contribution graph" />
-    </picture>
-  </a>
-</p>
-
-<hr />
 
 <!-- snake graph -->
 <div align="center">
@@ -418,39 +315,3 @@
 </div>
 
   <hr />
-  
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rahulsamanta82&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="35" height="35" />&nbsp;&nbsp;Random Dev Quote</p>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-## 🔁 Creators
-
-It's only possible because of [Shields Project](https://github.com/badges/shields), [Simple Icons](https://github.com/simple-icons/simple-icons) & beloved all [Contributors](https://github.com/rahulsamanta82/Badges4-README.md-Profile/graphs/contributors). We do respect & love our all contributors.
-
-|                                                                                                                                                    Author                                                                                                                                                  |                                                                                                                                                                                                                                                                |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [<img src="https://github.com/rahulsamanta82.png?size=115" width=115><br><sub>@rahulsamanta82</sub>](https://github.com/rahulsamanta82) <br><br> [![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/rahulsamanta82)
-
-
-## ⏱Thanks to all contributors ❤
-
-<!--<a href = "https://github.com/rahulsamanta82/rahulsamanta82/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=rahulsamanta82/rahulsamanta82"/>
- </a>-->
-
- <a href = "https://github.com/rahulsamanta82/Hackbook/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=alexandresanlim/Badges4-README.md-Profile"/>
- </a>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rahulsamanta82&label=Profile%20views&color=00ff6e&style=flat" alt="rahulsamanta82" /> </p>
-
-
-
-## 📈 GitHub 3D Contribution Graph
-![](./profile-3d-contrib/profile-night-green.svg)
