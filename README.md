@@ -11,20 +11,18 @@
   <td>
     <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:50px;" />
    
-- 🔭 I’m currently working on AI/ML
+- 🔭 Working on AI/ML
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2FF7,100:FF00FF&height=120&section=header&text=AI%20%7C%20Machine%20Learning&fontColor=ffffff&fontSize=30&animation=fadeIn"/>
+</p>
 - 🌱  DSA 
 
 - 👨‍💻 [**View my portfolio**](https://jaggiportfolio.netlify.app/) to see all of my projects.
 
-- 📝 Explore detailed **blogs** on my **Design** and **JavaScript** projects [**here.**](https://rahul-funville.vercel.app/)
+- ⚡ MAD MAXXX
 
-- 💬 Ask me about **UI/UX Design, Full stack development**
+- 📫  nikhiljaggiofficial@gmail.com
 
-- ⚡ Fun fact **MAD MAXXX**
-
-- 📫 How to reach me **nikhiljaggiofficial@gmail.com** 
-
-- 🤗 Explore real-time weather updates with my Weather App: featuring a sleek design and user-friendly interface [**Weather App**](https://rahulsamanta82.github.io/Weather_app/)
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="1000" alt="animated hello">
   </td>
   <td>
